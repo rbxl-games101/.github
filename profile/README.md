@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-Yes, we are building **rbxl-games101** on GitHub. In fact, we’ve been doing this since **2023**. Since then, we’ve pushed some of commits, opened issues, submitted pull requests, and collaborated across various repositories. Right now, we have one main project called **NCR**. 🤯 
+Yes, we are building **rbxl-games101** on GitHub. In fact, we’ve been doing this since **2024**. Since then, we’ve pushed some of commits, opened issues, submitted pull requests, and collaborated across various repositories. Right now, we have one main project called **nothing**. 🤯 
 
 ### 🍿 An community
 
@@ -21,7 +21,7 @@ We also contribute to the tools 🔧 that help us build our gaming projects whil
 	<li>**rbxl-games101** is built using various open-source technologies relevant to game development.</li>
 		<li>The open-source projects our contributors have most engaged with include:
 			<ul>
-				<li>**NCR**</li>
+				<li>**nothing**</li>
 			</ul>
 		</li>
 	</ul>
